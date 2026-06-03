@@ -24,7 +24,7 @@ This is a single-file website — all images are base64-encoded directly into `i
 |   | Section | Content |
 |---|---------|---------|
 | — | Hero | Name, photo, links, tags, stats |
-| 01 | Education | CityU HK (MSc) · HZNU (BSc) |
+| 01 | Education | CityU HK (MA) · HZNU (BSc) |
 | 02 | Internship | User research · AI trainer |
 | 03 | Research | 4 projects, conference papers |
 | 04 | Skills | SPSS · JASP · MySQL · Cursor · VS Code… |
